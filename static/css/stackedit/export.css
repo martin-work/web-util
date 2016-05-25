@@ -11,11 +11,25 @@ div.toc a
 div.toc a:hover
 {
 	border-color: black;
-	background: A6F7E3;
 }
 
 div.toc
 {
-   background-color : #BBA6F7;
+	padding: 0.1em;
+	background-color : #E9F3FF;
+}
+
+pre.prettyprint {
+	background-color : #f0f0f0;
+	padding: 5px
+}
+
+table {
+	padding-left : 20px;
+	
+}
+table td {
+	border-top: 1px solid #ddd;
+	
 }
 
