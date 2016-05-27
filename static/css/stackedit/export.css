@@ -20,9 +20,16 @@ div.toc
 }
 
 pre.prettyprint {
-	background-color : #f0f0f0;
-	padding: 5px
+	background-color : #333333;
+	color : #ffffff;
+	padding: 5px;
+	border: 3px #4A9C2F dashed;
 }
+
+a.reversefootnote {
+	text-decoration : none;
+}
+
 
 table {
 	padding-left : 20px;
