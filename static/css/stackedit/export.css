@@ -26,16 +26,16 @@ pre.prettyprint {
 	border: 3px #4A9C2F dashed;
 }
 
-a.reversefootnote {
+div.content a.reversefootnote {
 	text-decoration : none;
 }
 
 
-table {
+div.content table {
 	padding-left : 20px;
 	
 }
-table td {
+div.content table td {
 	border-top: 1px solid #ddd;
 	
 }
