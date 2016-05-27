@@ -1,3 +1,6 @@
 
-makeSmoothAnchorsClick(jQuery("body")[0],'div.toc,div.footnotes');
+jQuery(function() {
+	makeSmoothAnchorsClick(jQuery("body")[0],'div.toc,div.footnotes');
+});
+
 
