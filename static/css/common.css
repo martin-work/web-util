@@ -1,6 +1,11 @@
 
 
-.reverse-boo {
+.reverse-boo { 
 	opacity : 0.3;
+	transition: opacity 2s; 
+} 
+.reverse-boo:hover { 
+	opacity : 1; 
+	transition: opacity 0.4s; 
 }
 
